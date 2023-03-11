@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! 👻 Welcome to my profile</h1>
 <h3 align="center">I'm a passionate front-end web developer. I love creating websites and web applications that not only look great but also provide a great user experience. I also enjoy making electronic music 🈳🎶</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\Admin\Desktop\gosling-gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=direnzo&label=Profile%20views&color=0e75b6&style=flat" alt="direnzo" /> </p>
