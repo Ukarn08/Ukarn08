@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=direnzo&label=Profile%20views&color=0e75b6&style=flat" alt="direnzo" /> </p>
 
-* <span title="Dialect">📌</span>: <span title="France">🇫🇷-En</span>
+* <span title="Dialect">📌</span>: <span title="France">🇫🇷-🇺🇸</span>
 
 - Currently learning **Python 🐍**
 
