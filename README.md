@@ -1,4 +1,4 @@
-<h1 align="center">Hello ! ☀️ Welcome to my profile ☀️ </h1>
+<h1 align="center">Hello ! 🟠 Welcome to my profile 🟠 </h1>
 <h3 align="center">I'm a passionate front-end web developer. I love creating websites and web applications that not only look great but also provide a great user experience. I also enjoy making electronic music 🉑 🈸 🎧 🈺 🉑 </h3>
 
 ![infinite gosling 2042](https://user-images.githubusercontent.com/108266433/224511140-950d2cdd-ecc2-411d-99c8-16301e1ecc29.gif)
