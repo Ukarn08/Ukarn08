@@ -1,4 +1,6 @@
-<h3 align="center">I'm a passionate web developer. I love creating websites and web applications that not only look great but also provide a great user experience. I also enjoy making electronic music 🈳🎶</h3>
+<h1 align="center">Hello ! 👻 Welcome to my profile</h1>
+<h3 align="center">I'm a passionate front-end web developer. I love creating websites and web applications that not only look great but also provide a great user experience. I also enjoy making electronic music 🈳🎶</h3>
+<iframe src="https://giphy.com/embed/3o7bug2wkdhpf7kbFS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/feelgood-3o7bug2wkdhpf7kbFS">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=direnzo&label=Profile%20views&color=0e75b6&style=flat" alt="direnzo" /> </p>
 
