@@ -9,7 +9,7 @@
 
 🟠 <span title="Lang">Dialect</span> <span  title="fr_us">🇫🇷-🇺🇸</span> 
 
-🟠 Currently learning **Python 🐍**
+🟠 Currently learning **Python**
 
 🟠 Contact 📬 **K-Direnzo08@hotmail.com**
 
