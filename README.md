@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@ukarn08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ukarn08" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raven0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raven0002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Tech Stack 🎨:</h3>
