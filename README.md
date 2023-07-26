@@ -5,7 +5,7 @@
 ![infinite gosling 2042](https://user-images.githubusercontent.com/108266433/224511140-950d2cdd-ecc2-411d-99c8-16301e1ecc29.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=direnzo&label=Profile%20views&color= FF8000&style=flat" alt="direnzo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=direnzo&label=Profile%20views&color= ffa500&style=flat" alt="direnzo" /> </p>
 
 🟠 <span title="Lang">Dialect:</span>       <span  title="fr_eng">FR-ENG</span> 
 
