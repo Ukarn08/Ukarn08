@@ -8,7 +8,6 @@
 
 🟠 <span title="Lang">Dialect:</span>       <span  title="fr_eng">FR-ENG</span> 
 
-🟠 Currently learning:        **Python**
 
 🟠 Contact 📬:         **K-Direnzo08@hotmail.com**
 
